@@ -1,4 +1,4 @@
-# Tinker Twins
+# Tinker Twins Website
 
 ![Tinker-Twins](README.png)
 
